@@ -1,1 +1,68 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Roboto+Slab:wght@500&family=Source+Sans+Pro:wght@200;400;600&display=swap');
+.date{
+    text-align: left;
+    color: #777;
+    font-style: normal;
+    font-family:Arial, Helvetica, sans-serif
+}
+h1 {
+    text-align: center;
+    font-family: 'Abril Fatface';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/abrilfatface/v19/zOL64pLDlL1D99S8g8PtiKchq-lmjdLh.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+
+}
+li {
+    display: inline-block;
+}
+.navbar{
+    position: sticky;
+    top: -0.5%;
+    text-align: center;
+    font-family: 'abril Fatface';
+    font-size: .9em;
+    color:#777;
+    display:inline-block;
+    padding: 2px;
+    border-style: solid;
+    border-color: gray;
+    border-left: #eee;
+    border-right: #eee:
+    ;
+    
+}
+
+
+
+  body {
+    background-color:#eee
+
+}
+
+.frontpage{
+}
+
+.newspaper-container{
+    background-color: white;
+    width:700px;
+    border-radius: 1%;
+    box-shadow: 15px;
+    padding: 5em;
+    display: center;
+}
+
+header {
+    text-align: center;
+    font-family: abril Fatface;
+    font-size: 1.5em;
+}
+
+.more-articles{
+    display: inline-block;
+    width: 15rem;
+    text-align: center;
+    border-top: #eee;
+}
